@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/tulip" name="kylevessPL/device_xiaomi_tulip" remote="github" revision="9.0" />
+  <project path="vendor/xiaomi/tulip" name="kylevessPL/vendor_xiaomi_tulip" remote="github" revision="9.0" />
+  <project path="kernel/xiaomi/tulip" name="kylevessPL/kernel_xiaomi_tulip" remote="github" revision="9.0" />
+</manifest>
