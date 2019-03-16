@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/tulip" name="kylevessPL/android_device_xiaomi_tulip" remote="github" revision="nitrogen-pie" />
+  <project path="device/xiaomi/tulip" name="kylevessPL/android_device_xiaomi_tulip" remote="github" revision="xenon-pie" />
   <project path="vendor/xiaomi/tulip" name="kylevessPL/android_vendor_xiaomi_tulip" remote="github" revision="9.0" />
   <project path="kernel/xiaomi/tulip" name="kylevessPL/android_kernel_xiaomi_tulip" remote="github" revision="9.0" />
-  <project path="hardware/qcom/media-caf-sdm660" name="omnirom/android_hardware_qcom_media-caf-sdm660" remote="github" revision="android-9.0" />
-  <project path="hardware/qcom/audio-caf-sdm660" name="omnirom/android_hardware_qcom_audio-caf-sdm660" remote="github" revision="android-9.0" />
-  <project path="hardware/qcom/display-caf-sdm660" name="omnirom/android_hardware_qcom_display-caf-sdm660" remote="github" revision="android-9.0" />
 </manifest>
